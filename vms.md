@@ -53,4 +53,10 @@ JSON
       "sku": "18.04-LTS", "version": "latest"
     }
     ```
+* asdf
+
+## Monitoring
+
+* Metrics : CPU, Network, Disk I/O \(Only Hypervisor Metrics\)
+* Memory Usage : Need to Monitoring Agent
 
