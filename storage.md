@@ -4,7 +4,7 @@ description: '2019-07-08, AZ-300'
 
 # Storage
 
-### Azure Storage
+### Storage Service
 
 * Blobs\(S3\)
   * WebServer\(Path\) + Metadata
@@ -43,6 +43,12 @@ description: '2019-07-08, AZ-300'
   * Premium, Standard Verizon
   * Standard Akamai
   * Standard Microsoft
+
+{% hint style="warning" %}
+#### Questions
+
+* Support a Block Storage?
+{% endhint %}
 
 
 
