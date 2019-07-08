@@ -25,6 +25,8 @@ description: '2019-07-08, AZ-300'
 3. `Menu > Add Course` - Type license key
 4. `Menu > Current Course`
 
+[Dumps](https://www.koreadumps.com/)
+
 ## Github
 
 * [https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies](https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies)
