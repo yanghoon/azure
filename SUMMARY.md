@@ -4,4 +4,5 @@
 * [Storage](storage.md)
 * [Materials](materials.md)
 * [Fundamentals](fundamentals.md)
+* [VMs](vms.md)
 

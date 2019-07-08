@@ -1,3 +1,7 @@
+---
+description: '2019-07-08, AZ-300'
+---
+
 # Fundamentals
 
 ## Azure Service Characteristic 
