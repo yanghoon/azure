@@ -31,7 +31,6 @@ description: '2019-07-08, AZ-300'
 
 * [https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies](https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies)
 * [https://github.com/MicrosoftLearning/AZ-301-MicrosoftAzureArchitectDesign](https://github.com/MicrosoftLearning/AZ-301-MicrosoftAzureArchitectDesign)
-* [https://github.com/krazure/workshop-itpro-101/tree/master/hands-on-lab](https://github.com/krazure/workshop-itpro-101/tree/master/hands-on-lab) \(1.1 - 1.5\)
 
 
 
