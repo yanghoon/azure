@@ -53,7 +53,16 @@ JSON
       "sku": "18.04-LTS", "version": "latest"
     }
     ```
-* asdf
+
+```text
+az login
+az account set -subscription xxxxx
+
+group=<group-name>
+az group create -g $group -l southeastasia
+az group deployment create -g $group --name deploy_wordpress_on_mysql \
+    --template-file azure_template.json --parameters parameters.json
+```
 
 ## Monitoring
 

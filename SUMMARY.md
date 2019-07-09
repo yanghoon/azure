@@ -7,4 +7,5 @@
 * [VMs](vms.md)
 * [IAM](iam.md)
 * [Networks](networks.md)
+* [Monitoring](untitled.md)
 
